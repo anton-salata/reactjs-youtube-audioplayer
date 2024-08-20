@@ -1,0 +1,9 @@
+.youtube-control {
+    background-color: black;
+    color: #00ff00; /* Green text color */
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
